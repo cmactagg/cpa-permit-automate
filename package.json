@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^6.0.0",
+    "puppeteer": "^1.8.0",
     "static-server": "^2.2.1"
   }
 }
